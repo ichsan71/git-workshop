@@ -6,3 +6,4 @@ const supabase = createClient(
   dbConfig.SUPABASE_KEY,
 )
 module.exports = supabase;
+// sawkwkkw
