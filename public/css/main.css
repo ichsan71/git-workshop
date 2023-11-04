@@ -3,13 +3,11 @@
 }
 
 @font-face {
-    font-family: montserrat-bold;
-    src: url(../fonts/Montserrat-Bold.ttf) format("truetype")
+    font-family: 'Poppins', sans-serif;
 }
 
 @font-face {
-    font-family: montserrat-thin;
-    src: url(../fonts/Montserrat-Thin.ttf) format("truetype")
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
